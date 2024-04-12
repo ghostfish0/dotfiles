@@ -1,0 +1,27 @@
+*foreground:   #E9E9F4
+*background:   #141423
+*cursorColor:  #E9E9F4
+
+*color0:       #141423
+*color8:       #7e7eb5
+*color1:       #C197FD
+*color9:       #C197FD
+*color2:       #E5C697
+*color10:      #E5C697
+*color3:       #FFB86C
+*color11:      #FFB86C
+*color4:       #62D6E8
+*color12:      #62D6E8
+*color5:       #20E3B2
+*color13:      #20E3B2
+*color6:       #8BE9FD
+*color14:      #8BE9FD
+*color7:       #F1F2F8
+*color15:      #F7F7FB
+
+dwm.normbordercolor : #141423
+dwm.normbgcolor: #141423
+dwm.normfgcolor: #E9E9F4
+dwm.selbordercolor: #C197FD
+dwm.selbgcolor: #C197FD
+dwm.selfgcolor: #141423
