@@ -1,3 +1,3 @@
 #!/bin/sh
 # Path 
-path=(/home/tinnguyen/Scripts ~/.cargo/bin $path)
+path=(~/Downloads/dmscripts/scripts ~/Scripts ~/.cargo/bin $path)

@@ -19,9 +19,14 @@
 *color7:       #F1F2F8
 *color15:      #F7F7FB
 
-dwm.normbordercolor : #141423
-dwm.normbgcolor: #141423
-dwm.normfgcolor: #E9E9F4
-dwm.selbordercolor: #C197FD
-dwm.selbgcolor: #C197FD
-dwm.selfgcolor: #141423
+*.normbordercolor : #141423
+*.normbgcolor: #141423
+*.normfgcolor: #E9E9F4
+*.selbordercolor: #C197FD
+*.selbgcolor: #C197FD
+*.selfgcolor: #141423
+
+dmenu.font: IntoneMono NF:bold:size=9
+dmenu.selbackground: #C197FD
+dmenu.selforeground: #141423
+

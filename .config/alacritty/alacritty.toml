@@ -16,3 +16,8 @@ style = "Medium Italic"
 [font.normal]
 family = "IntoneMono Nerd Font"
 style = "Medium"
+
+[keyboard]
+bindings = [
+   { key = "Escape", mods = "Shift", action = "ToggleViMode" }
+]

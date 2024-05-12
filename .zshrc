@@ -104,7 +104,6 @@ alias ghcs="gh copilot suggest"
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias nvimdiff='nvim -d'
 
-# Path 
-
-path=($PYENV_ROOT/bin ~/.cargo/bin/ ~/.local/bin/ $path)
+path=($PYENV_ROOT/bin ~/.local/bin $path)
